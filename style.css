@@ -24,7 +24,7 @@ h2 {
     height: fit-content;
     text-align: center;
 }
-.blogtext1{
+.blogtext{
     margin:20px auto;
     width: 450px;
     height:fit-content;
@@ -34,7 +34,7 @@ h2 {
     background-color: rgb(230, 230, 230);
 
 }
-.blogtext2{
+#texttwo{
     margin:20px auto;
     width: 400px;
     height:fit-content;
@@ -42,7 +42,9 @@ h2 {
     padding: 50px 25px;
     border: 2px solid black;
     background-color: pink;
+
 }
+
 
 li{
     color:white
